@@ -4,5 +4,12 @@
     "changes": [
       "Initial release - Integrate with VeloPack and S3"
     ]
+  },
+  "1.0.1": {
+    "releaseTime": "2025-12-05T10:20:30+07:00",
+    "changes": [
+      "Fixed bug in S3 upload functionality",
+      "Improved performance of VeloPack integration"
+    ]
   }
 }
